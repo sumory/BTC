@@ -1,0 +1,7 @@
+logs/
+*.pyc
+lib/*.pyc
+database/*.pyc
+test/*.pyc
+test/logs
+.DS_Store

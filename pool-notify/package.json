@@ -1,0 +1,17 @@
+{
+    "name":"asicme_pool_notify",
+    "version":"0.0.1",
+    "private":true,
+    "scripts":{
+        "start":"node notify.js"
+    },
+    "readmeFilename":"Readme.md",
+    "dependencies":{
+        "mysql":"2.0.0-alpha9",
+        "async":"0.2.9",
+        "request":"2.27.0",
+        "nodemailer":"0.5.3",
+        "node-schedule":"0.1.11",
+        "underscore":"1.5.2"
+    }
+}

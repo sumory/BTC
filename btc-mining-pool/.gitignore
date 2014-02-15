@@ -1,0 +1,5 @@
+backlogs/
+logs/
+*.pyc
+lib/*.pyc
+.DS_Store

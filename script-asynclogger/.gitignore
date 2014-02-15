@@ -1,0 +1,5 @@
+*.pyc
+lib/*.pyc
+conf/*.pyc
+.DS_Store
+lib/asynclogger/*.pyc

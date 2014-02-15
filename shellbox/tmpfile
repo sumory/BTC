@@ -1,0 +1,5 @@
+      ls      -a -l /bin |  sort
+      ls      -a -l /bin |  sort | wc
+      ls      -a -l |  grep sh | wc
+      ls      -a -l
+      ls      -a -l |       sort      |    wc

@@ -1,0 +1,11 @@
+{
+    "name":"server-monitor",
+    "version":"0.0.1",
+    "private":true,
+    "scripts":{
+        "start":"node monitor.js"
+    },
+    "dependencies":{
+        "request":"2.27.0"
+    }
+}
